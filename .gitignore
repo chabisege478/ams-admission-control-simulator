@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Fichiers temporaires
+*.log
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets et configuration locale
+.env
+.env.*

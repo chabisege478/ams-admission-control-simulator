@@ -1,0 +1,17 @@
+scenario;policy;best_parameter;mean_reward;ci95;rejection_rate;winner
+S1 Base;AlwaysAccept;;3.8525;0.0186;0.1023;
+S1 Base;Threshold;18;3.8428;0.0170;0.1308;
+S1 Base;UtilityVsCost;8;5.0984;0.0212;0.7623;yes
+S1 Base;Efficiency;0.5;4.8620;0.0124;0.7328;
+S2 Specialized;AlwaysAccept;;4.9960;0.0401;0.1023;
+S2 Specialized;Threshold;15;5.0015;0.0365;0.1877;
+S2 Specialized;UtilityVsCost;4;5.6512;0.0396;0.7049;yes
+S2 Specialized;Efficiency;0.25;5.4580;0.0414;0.6594;
+S3 Shared;AlwaysAccept;;3.7837;0.0301;0.1023;
+S3 Shared;Threshold;4;5.0646;0.0344;0.7451;
+S3 Shared;UtilityVsCost;16;7.0860;0.0360;0.7790;yes
+S3 Shared;Efficiency;1;6.5572;0.0377;0.7592;
+S4 Unbalanced;AlwaysAccept;;4.6120;0.0394;0.1023;
+S4 Unbalanced;Threshold;18;4.5920;0.0400;0.1308;
+S4 Unbalanced;UtilityVsCost;4;5.3296;0.0432;0.7732;
+S4 Unbalanced;Efficiency;0.5;5.3654;0.0405;0.8014;yes

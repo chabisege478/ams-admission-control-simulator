@@ -1,0 +1,11 @@
+strategy;scenario;acceptance_rate_percent;ci95
+Utility;S1 Base;23.77;
+Utility;S2 Specialized;29.51;
+Utility;S3 Shared;22.10;
+Utility;S4 Unbalanced;22.68;
+Utility;ALL;24.51;0.09
+Efficiency;S1 Base;26.72;
+Efficiency;S2 Specialized;34.06;
+Efficiency;S3 Shared;24.08;
+Efficiency;S4 Unbalanced;19.86;
+Efficiency;ALL;26.18;0.06
